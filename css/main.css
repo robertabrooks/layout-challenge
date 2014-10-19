@@ -5,7 +5,7 @@ body {
 	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 16px;
 	font-weight: 300;
-	background-image: url(../img/background.jpg);
+	background-image: none;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -44,6 +44,10 @@ main {
 
 #menu {
 	background-color: rgba(207, 205, 140, 0.5);
+}
+
+#pies {
+	padding-left: 0;
 }
 
 dt {
